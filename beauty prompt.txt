@@ -1,0 +1,188 @@
+You are a senior full-stack developer, UI/UX designer, and luxury beauty e-commerce specialist.
+
+Build a premium beauty/skincare e-commerce portfolio website called "LUMI".
+
+IMPORTANT:
+- This is a fictional portfolio/demo website.
+- Do not use real companies, real customer information, or copyrighted branding.
+- Do not claim that LUMI is a real company.
+- Do not implement real payment processing.
+- The website should demonstrate the quality of a professional Shopify store.
+
+TECH STACK:
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Lucide React
+- Framer Motion
+- Reusable React components
+- Mock product data
+- Architecture suitable for future Shopify/API integration
+
+BRAND:
+Name: LUMI
+Industry: Premium skincare and beauty
+Tagline: "Simple Rituals. Radiant Skin."
+Target audience: 20–45
+Brand personality: clean, elegant, calming, premium, trustworthy.
+
+DESIGN:
+Create a sophisticated luxury skincare aesthetic.
+
+Use:
+- Elegant typography
+- Soft neutral backgrounds
+- High-quality product imagery
+- Large editorial sections
+- Clean product cards
+- Subtle animations
+- Excellent mobile layout
+- Strong visual hierarchy
+
+Avoid:
+- Cheap-looking beauty templates
+- Excessive animations
+- Overly bright colors
+- Clutter
+
+PAGES:
+1. Home
+2. Shop
+3. Skincare collection
+4. Product page
+5. About
+6. Skin Guide
+7. Contact
+8. Cart
+9. Wishlist
+10. FAQ
+11. Shipping & Returns
+12. Privacy
+13. Terms
+
+HOME PAGE:
+Include:
+- Announcement bar
+- Navigation
+- Hero section
+- Featured products
+- Shop by concern
+- Best sellers
+- Ingredient spotlight
+- Skincare routine section
+- Brand story
+- Customer reviews
+- Before/after section using clearly fictional/demo content
+- Newsletter
+- Social gallery
+- Footer
+
+PRODUCTS:
+Create at least 12 fictional products.
+
+Examples:
+- LUMI Daily Glow Cleanser
+- LUMI Hydrating Essence
+- LUMI Vitamin C Serum
+- LUMI Barrier Repair Cream
+- LUMI Night Recovery Serum
+- LUMI Gentle Exfoliant
+- LUMI Eye Renewal Cream
+- LUMI Daily SPF
+- LUMI Hydration Mask
+- LUMI Cleansing Balm
+- LUMI Facial Oil
+- LUMI Complete Glow Set
+
+Each product should have:
+- Product name
+- Price
+- Description
+- Ingredients
+- How to use
+- Skin type
+- Size
+- Rating
+- Reviews
+- Stock status
+- Product images
+
+PRODUCT PAGE:
+Create:
+- Image gallery
+- Product title
+- Price
+- Rating
+- Description
+- Skin type
+- Ingredients
+- How to use
+- Quantity
+- Add to cart
+- Wishlist
+- Shipping information
+- Reviews
+- Recommended products
+
+SKIN GUIDE:
+Create an interactive-looking questionnaire:
+
+"What's your skin goal?"
+
+Options:
+- Hydration
+- Brightening
+- Texture
+- Oil control
+- Sensitive skin
+
+After selection, display recommended fictional LUMI products.
+
+Make it clear that this is a demo and not medical advice.
+
+FUNCTIONALITY:
+- Working cart
+- Quantity controls
+- Wishlist
+- Search
+- Product filtering
+- Category filtering
+- Price sorting
+- Mobile navigation
+- Newsletter validation
+- Toast notifications
+
+ANIMATIONS:
+Use subtle Framer Motion animations:
+- Product reveal
+- Scroll reveal
+- Hover effects
+- Page transitions
+- Smooth interactions
+
+ACCESSIBILITY:
+- Semantic HTML
+- Keyboard navigation
+- Proper labels
+- Alt text
+- Good contrast
+- Accessible buttons
+
+SEO:
+Add realistic SEO metadata.
+Create Open Graph metadata.
+Create descriptive titles and descriptions.
+
+PORTFOLIO PURPOSE:
+The website must demonstrate the ability to create a high-end beauty Shopify-style storefront with strong branding, product storytelling, discovery, conversion-focused layouts, and responsive UX.
+
+Before finishing:
+- Run the project
+- Fix errors
+- Fix TypeScript problems
+- Test navigation
+- Test cart
+- Test filters
+- Test mobile responsiveness
+- Remove unused code
+- Give me a concise project summary.
